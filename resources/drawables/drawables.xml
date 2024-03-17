@@ -1,0 +1,5 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="tasbih.png" />
+    <bitmap id="kalima" filename="kalima.jpg" />
+    <bitmap id="mohamed" filename="mohamed.png" />
+</drawables>
